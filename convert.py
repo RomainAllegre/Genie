@@ -1,4 +1,4 @@
-//fonction nécessite avoir telechargé PyPDF2
+#fonction nécessite avoir telechargé PyPDF2
 
 import PyPDF2
 import os
