@@ -5,6 +5,7 @@
 Le parseur peut être lancé avec les options suivantes :
 
 -t : pour générer une sortie texte
+
 -x : pour générer une sortie XML
 
 commande entière à executer :
